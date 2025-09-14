@@ -1,1 +1,0 @@
-.env파일을 작성하여 OPENAI_API_KEY, FIRECRAWL_API_KEY 환경변수 설정 필요.  
